@@ -1,13 +1,13 @@
 # hotspot captive portal + freeradius & daloradius
 
 
-**router**
+**router hotspot**
 
 
-**switch**
+**freeradius**
 
 
-**server**
+**daloradius**
 
 
 **pc siswa,guru**
